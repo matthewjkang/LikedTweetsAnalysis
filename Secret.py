@@ -1,5 +1,0 @@
-apikey = "BtnCwfRWAn8q1sZdPTOajWGT7"
-apikeysecret = "zbokVrKdUru9VHjP5hsR1U8idhQNpTz2OX0xyn28DZLb1y0iTe"
-bearertoken = "AAAAAAAAAAAAAAAAAAAAAMIugAEAAAAAbXHUHwlzBWi%2BRJQV9balOKjiS9k%3DTvhOgO2uuVaVz235kSlQrPNeGa8Qb6Znei0PgEjU7J7OMbUo3P"
-accesstoken = "236209759-QNNwUie75uI3pOixXJu0GfLCkBv5hiEo2iPzLKUh"
-accesstokensecret = "98Y7oyxuYWZcWW0NxXy6Pg8whPf2Gh0vTvSVQnIS7vfHi"
